@@ -1,0 +1,114 @@
+[
+    {   "id":1,
+        "name":"Telefon mobil Apple iPhone 13 Pro Max, 128GB, 5G, Sierra Blue",
+        "stoc":"in stoc",
+        "image": "images/img11.png",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":2,
+        "name":"Telefon mobil Apple iPhone 13 Pro, 128GB, 5G, Sierra Blue",
+        "stoc":"in stoc",
+        "image": "images/img12.png",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":3,
+        "name":"Telefon mobil Apple iPhone 13 Pro, 128GB, 5G, Graphite",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":4,
+        "name":"Telefon mobil Apple iPhone 13 Pro Max, 128GB, 5G, Silver",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+    {
+        "id":5,
+        "name":"Telefon mobil Apple iPhone 12 Pro, 128GB, 5G, Graphite",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {   "id":6,
+        "name":"Telefon mobil POCO X3 Pro, Dual SIM, 128GB, 6GB RAM, 4G, Phantom Black",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":7,
+        "name":"Telefon mobil Samsung Galaxy S20 FE, Dual SIM, 128GB, 6GB RAM, 5G, Cloud Navy",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":8,
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":9,
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {"id":10,
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {"id":11,
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {"id":12,
+        "name":"Telefon mobil Apple iPhone 13 Pro Max, 128GB, 5G, Sierra Blue",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+        
+    {"id":13,
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "id":14,
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    },
+
+    {
+        "name":"Telefon mobil Apple iPhone 11, 128GB, Purple",
+        "stoc":"in stoc",
+        "image": "images/img2.jpg",
+        "pret": "24,33 lei"
+    }
+ 
+]
