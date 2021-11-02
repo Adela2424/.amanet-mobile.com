@@ -1,0 +1,42 @@
+.container_oferte{
+    padding: 3rem 6rem;
+    background-color: rgba(230, 230, 230, 0.527) ;
+}
+.oferte{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.oferte_items{
+    max-width: 200px;
+    padding: 15px 15px;
+    box-shadow:  0 0 5px  5px rgba(78, 117, 168, 0.329);
+
+}
+.oferte_items:hover{
+    background-color: white;
+}
+
+.oferte_item{
+    display: flex;
+    max-width: 200px;
+    font-size: 16px;
+    
+}
+.img_oferte{
+    flex: 40%;
+    color: rgba(46, 63, 138, 0.993);
+}
+.titlu_oferte{
+    color: rgb(14, 29, 27);
+    text-align: center;
+    flex: 60%;
+}
+
+.paragraf_oferte{
+    font-size: 14px;
+    color: rgb(71, 94, 94);
+    text-align: center;
+    padding: 10px 0;
+}
